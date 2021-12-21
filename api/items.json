@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "model": "TYOBS-0001",
+    "title": "The First",
+    "artist": "Earl Grey",
+    "sale_date": "2021-02-01",
+    "price": 1000,
+    "jacket_image": "api/img/photo001.jpg"
+  },
+  {
+    "id": 2,
+    "model": "TYOBS-0002",
+    "title": "ten quadrillion",
+    "artist": "meka",
+    "sale_date": "2021-02-15",
+    "price": 500,
+    "jacket_image": "api/img/photo002.jpg"
+  },
+  {
+    "id": 3,
+    "model": "TYOBS-0010",
+    "title": "M Core Generation",
+    "artist": "Hanafusa Misa",
+    "sale_date": "2021-03-21",
+    "price": 2000,
+    "jacket_image": "api/img/photo003.jpg"
+  },
+  {
+    "id": 4,
+    "model": "TYOBS-0013",
+    "title": "double triangle lover",
+    "artist": "Earl Grey",
+    "sale_date": "2021-03-03",
+    "price": 1000,
+    "jacket_image": "api/img/photo004.jpg"
+  },
+  {
+    "id": 5,
+    "model": "TYOBS-0014",
+    "title": "\u92fc",
+    "artist": "meka",
+    "sale_date": "2021-03-21",
+    "price": 1000,
+    "jacket_image": "api/img/photo005.jpg"
+  },
+  {
+    "id": 6,
+    "model": "TYOBS-0020",
+    "title": "5123R*H34V3N",
+    "artist": "Tokyo Big Sizer All Stars",
+    "sale_date": "2021-07-01",
+    "price": 3000,
+    "jacket_image": "api/img/photo006.jpg"
+  },
+  {
+    "id": 7,
+    "model": "TYOBS-0021",
+    "title": "Enemy energy",
+    "artist": "DJ Ayaka",
+    "sale_date": "2021-07-07",
+    "price": 500,
+    "jacket_image": "api/img/photo007.jpg"
+  },
+  {
+    "id": 8,
+    "model": "TYOBS-0022",
+    "title": "tornado",
+    "artist": "meka",
+    "sale_date": "2021-07-07",
+    "price": 500,
+    "jacket_image": "api/img/photo008.jpg"
+  },
+  {
+    "id": 9,
+    "model": "TYOBS-0022",
+    "title": "DisKord",
+    "artist": "Hanafusa Misa",
+    "sale_date": "2021-07-15",
+    "price": 1500,
+    "jacket_image": "api/img/photo009.jpg"
+  },
+  {
+    "id": 10,
+    "model": "TYOBS-0023",
+    "title": "Kick Back 6099",
+    "artist": "meka",
+    "sale_date": "2021-08-01",
+    "price": 1000,
+    "jacket_image": "api/img/photo010.jpg"
+  },
+  {
+    "id": 11,
+    "model": "TYOBS-0024",
+    "title": "TYOBS",
+    "artist": "meka",
+    "sale_date": "2021-08-02",
+    "price": 2000,
+    "jacket_image": "api/img/photo011.jpg"
+  }
+]
